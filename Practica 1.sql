@@ -1,0 +1,12 @@
+SELECT CONTRIBUYENTE AS C 
+FROM CLIENTES
+
+SELECT CONTRIBUYENTE C
+FROM CLIENTES
+
+SELECT C = CONTRIBUYENTE
+FROM CLIENTES
+
+/*  simple reppaso de las diferentes 
+	formasde seleccionar un valor 
+*/
